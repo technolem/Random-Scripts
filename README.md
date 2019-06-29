@@ -9,11 +9,14 @@ We'll see if I add more.
 The scripts:
 
 bubble slayer.sh
-  Farms skins
+
+    Farms skins
 
 smithing.sh
-   Smiths the skins into gear for hammer xp.
+
+    Smiths the skins into gear for hammer xp.
    
 harvest.sh
-  Not actually related to smithing, this just spams the wizard's harvest spell for loot.
+
+    Not actually related to smithing, this just spams the wizard's harvest spell for loot.
   
