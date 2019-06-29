@@ -10,7 +10,7 @@ The scripts:
 
 bubble slayer.sh
 
-    Farms skins
+    Farms skins.
 
 smithing.sh
 
